@@ -1,0 +1,36 @@
+=== Murasoli PDF Download Log ===
+[INFO] Fetching number of pages...
+[INFO] Total pages: 16
+[SUCCESS] Downloaded: page_01.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_02.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_03.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_04.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_05.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_06.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_07.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_08.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_10.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_11.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_12.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_13.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_14.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_15.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_16.pdf (Attempt 1)
+[MERGED] All PDFs into: murasoli.pdf
+[CLEANUP] Deleted: page_01.pdf
+[CLEANUP] Deleted: page_02.pdf
+[CLEANUP] Deleted: page_03.pdf
+[CLEANUP] Deleted: page_04.pdf
+[CLEANUP] Deleted: page_05.pdf
+[CLEANUP] Deleted: page_06.pdf
+[CLEANUP] Deleted: page_07.pdf
+[CLEANUP] Deleted: page_08.pdf
+[CLEANUP] Deleted: page_09.pdf
+[CLEANUP] Deleted: page_10.pdf
+[CLEANUP] Deleted: page_11.pdf
+[CLEANUP] Deleted: page_12.pdf
+[CLEANUP] Deleted: page_13.pdf
+[CLEANUP] Deleted: page_14.pdf
+[CLEANUP] Deleted: page_15.pdf
+[CLEANUP] Deleted: page_16.pdf
