@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 28
+[INFO] Total pages: 39
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -9,7 +9,8 @@
 [SUCCESS] Downloaded: page_06.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_07.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/04/CHN/5_09/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/04/CHN/5_09/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/04/CHN/5_09/
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_11.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
@@ -29,6 +30,17 @@
 [SUCCESS] Downloaded: page_26.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_27.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_28.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_29.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_30.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_31.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_32.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_33.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_34.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_35.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_36.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_37.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_38.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_39.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -38,7 +50,6 @@
 [CLEANUP] Deleted: page_06.pdf
 [CLEANUP] Deleted: page_07.pdf
 [CLEANUP] Deleted: page_08.pdf
-[CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
 [CLEANUP] Deleted: page_11.pdf
 [CLEANUP] Deleted: page_12.pdf
@@ -58,3 +69,14 @@
 [CLEANUP] Deleted: page_26.pdf
 [CLEANUP] Deleted: page_27.pdf
 [CLEANUP] Deleted: page_28.pdf
+[CLEANUP] Deleted: page_29.pdf
+[CLEANUP] Deleted: page_30.pdf
+[CLEANUP] Deleted: page_31.pdf
+[CLEANUP] Deleted: page_32.pdf
+[CLEANUP] Deleted: page_33.pdf
+[CLEANUP] Deleted: page_34.pdf
+[CLEANUP] Deleted: page_35.pdf
+[CLEANUP] Deleted: page_36.pdf
+[CLEANUP] Deleted: page_37.pdf
+[CLEANUP] Deleted: page_38.pdf
+[CLEANUP] Deleted: page_39.pdf
