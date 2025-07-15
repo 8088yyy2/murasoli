@@ -9,7 +9,8 @@
 [SUCCESS] Downloaded: page_06.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_07.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_09/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_09/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_09/
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_11.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
@@ -22,10 +23,9 @@
 [SUCCESS] Downloaded: page_19.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_20.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_21.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_22/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_22/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_22/
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_23/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_23/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/14/CHN/5_23/
+[SUCCESS] Downloaded: page_22.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_23/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_23/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/15/CHN/5_23/
 [SUCCESS] Downloaded: page_24.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_25.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_26.pdf (Attempt 1)
@@ -38,7 +38,6 @@
 [CLEANUP] Deleted: page_06.pdf
 [CLEANUP] Deleted: page_07.pdf
 [CLEANUP] Deleted: page_08.pdf
-[CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
 [CLEANUP] Deleted: page_11.pdf
 [CLEANUP] Deleted: page_12.pdf
@@ -51,6 +50,7 @@
 [CLEANUP] Deleted: page_19.pdf
 [CLEANUP] Deleted: page_20.pdf
 [CLEANUP] Deleted: page_21.pdf
+[CLEANUP] Deleted: page_22.pdf
 [CLEANUP] Deleted: page_24.pdf
 [CLEANUP] Deleted: page_25.pdf
 [CLEANUP] Deleted: page_26.pdf
