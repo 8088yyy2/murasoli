@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 44
+[INFO] Total pages: 24
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -25,26 +25,6 @@
 [SUCCESS] Downloaded: page_22.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_23.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_24.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_25.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_26.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_27.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_28.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_29.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_30.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_31.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_32.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_33.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_34.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_35.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_36.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_37.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_38.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_39.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_40.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_41.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_42.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_43.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_44.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -70,23 +50,3 @@
 [CLEANUP] Deleted: page_22.pdf
 [CLEANUP] Deleted: page_23.pdf
 [CLEANUP] Deleted: page_24.pdf
-[CLEANUP] Deleted: page_25.pdf
-[CLEANUP] Deleted: page_26.pdf
-[CLEANUP] Deleted: page_27.pdf
-[CLEANUP] Deleted: page_28.pdf
-[CLEANUP] Deleted: page_29.pdf
-[CLEANUP] Deleted: page_30.pdf
-[CLEANUP] Deleted: page_31.pdf
-[CLEANUP] Deleted: page_32.pdf
-[CLEANUP] Deleted: page_33.pdf
-[CLEANUP] Deleted: page_34.pdf
-[CLEANUP] Deleted: page_35.pdf
-[CLEANUP] Deleted: page_36.pdf
-[CLEANUP] Deleted: page_37.pdf
-[CLEANUP] Deleted: page_38.pdf
-[CLEANUP] Deleted: page_39.pdf
-[CLEANUP] Deleted: page_40.pdf
-[CLEANUP] Deleted: page_41.pdf
-[CLEANUP] Deleted: page_42.pdf
-[CLEANUP] Deleted: page_43.pdf
-[CLEANUP] Deleted: page_44.pdf
