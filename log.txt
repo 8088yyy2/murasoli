@@ -1,52 +1,52 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
 [INFO] Total pages: 24
-[SUCCESS] Downloaded: page_01.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_02.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_03.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_04.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_05.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_06.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_07.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_10.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_11.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_12.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_13.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_14.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_15.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_16.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_17.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_18.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_19.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_20.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_21.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_22.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_23.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_24.pdf (Attempt 1)
-[MERGED] All PDFs into: murasoli.pdf
-[CLEANUP] Deleted: page_01.pdf
-[CLEANUP] Deleted: page_02.pdf
-[CLEANUP] Deleted: page_03.pdf
-[CLEANUP] Deleted: page_04.pdf
-[CLEANUP] Deleted: page_05.pdf
-[CLEANUP] Deleted: page_06.pdf
-[CLEANUP] Deleted: page_07.pdf
-[CLEANUP] Deleted: page_08.pdf
-[CLEANUP] Deleted: page_09.pdf
-[CLEANUP] Deleted: page_10.pdf
-[CLEANUP] Deleted: page_11.pdf
-[CLEANUP] Deleted: page_12.pdf
-[CLEANUP] Deleted: page_13.pdf
-[CLEANUP] Deleted: page_14.pdf
-[CLEANUP] Deleted: page_15.pdf
-[CLEANUP] Deleted: page_16.pdf
-[CLEANUP] Deleted: page_17.pdf
-[CLEANUP] Deleted: page_18.pdf
-[CLEANUP] Deleted: page_19.pdf
-[CLEANUP] Deleted: page_20.pdf
-[CLEANUP] Deleted: page_21.pdf
-[CLEANUP] Deleted: page_22.pdf
-[CLEANUP] Deleted: page_23.pdf
-[CLEANUP] Deleted: page_24.pdf
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_01/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_01/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_01/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_02/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_02/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_02/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_03/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_03/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_03/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_04/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_04/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_04/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_05/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_05/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_05/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_06/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_06/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_06/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_07/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_07/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_07/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_08/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_08/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_08/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_09/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_09/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_09/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_10/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_10/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_10/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_11/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_11/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_11/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_12/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_12/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_12/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_13/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_13/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_13/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_14/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_14/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_14/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_15/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_15/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_15/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_16/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_16/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_16/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_17/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_17/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_17/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_18/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_18/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_18/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_19/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_19/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_19/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_20/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_20/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_20/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_21/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_21/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_21/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_22/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_22/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_22/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_23/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_23/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_23/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_24/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_24/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/07/25/CHN/5_24/
+[FATAL] No PDFs downloaded. Nothing to merge.
