@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 16
+[INFO] Total pages: 20
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -17,6 +17,10 @@
 [SUCCESS] Downloaded: page_14.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_15.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_16.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_17.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_18.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_19.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_20.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -34,3 +38,7 @@
 [CLEANUP] Deleted: page_14.pdf
 [CLEANUP] Deleted: page_15.pdf
 [CLEANUP] Deleted: page_16.pdf
+[CLEANUP] Deleted: page_17.pdf
+[CLEANUP] Deleted: page_18.pdf
+[CLEANUP] Deleted: page_19.pdf
+[CLEANUP] Deleted: page_20.pdf
