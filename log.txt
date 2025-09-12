@@ -1,10 +1,7 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
 [INFO] Total pages: 20
-[ERROR] Attempt 1 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_01/7ef265cf2900cf7c_01.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[ERROR] Attempt 2 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_01/7ef265cf2900cf7c_01.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[ERROR] Attempt 3 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_01/7ef265cf2900cf7c_01.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[FAILED] Giving up on: https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_01/7ef265cf2900cf7c_01.pdf
+[SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_04.pdf (Attempt 1)
@@ -18,16 +15,14 @@
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_13.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_14.pdf (Attempt 1)
-[ERROR] Attempt 1 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_15/8220a8a8dd1d31cd_15.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[ERROR] Attempt 2 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_15/8220a8a8dd1d31cd_15.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[ERROR] Attempt 3 failed for https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_15/8220a8a8dd1d31cd_15.pdf: HTTPSConnectionPool(host='mrsfsnew.avahan.net', port=443): Read timed out.
-[FAILED] Giving up on: https://mrsfsnew.avahan.net/mrs/2025/09/11/CHN/5_15/8220a8a8dd1d31cd_15.pdf
+[SUCCESS] Downloaded: page_15.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_16.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_17.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_18.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_19.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_20.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
+[CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
 [CLEANUP] Deleted: page_03.pdf
 [CLEANUP] Deleted: page_04.pdf
@@ -41,6 +36,7 @@
 [CLEANUP] Deleted: page_12.pdf
 [CLEANUP] Deleted: page_13.pdf
 [CLEANUP] Deleted: page_14.pdf
+[CLEANUP] Deleted: page_15.pdf
 [CLEANUP] Deleted: page_16.pdf
 [CLEANUP] Deleted: page_17.pdf
 [CLEANUP] Deleted: page_18.pdf
