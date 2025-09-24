@@ -21,8 +21,8 @@
 [SUCCESS] Downloaded: page_18.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_19.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_20.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/09/23/CHN/5_21/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/09/23/CHN/5_21/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/09/23/CHN/5_21/
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/09/24/CHN/5_21/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/09/24/CHN/5_21/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/09/24/CHN/5_21/
 [SUCCESS] Downloaded: page_22.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_23.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
