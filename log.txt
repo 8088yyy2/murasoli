@@ -1,28 +1,3 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 12
-[SUCCESS] Downloaded: page_01.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_02.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_03.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_04.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_05.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_06.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_07.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_10.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_11.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_12.pdf (Attempt 1)
-[MERGED] All PDFs into: murasoli.pdf
-[CLEANUP] Deleted: page_01.pdf
-[CLEANUP] Deleted: page_02.pdf
-[CLEANUP] Deleted: page_03.pdf
-[CLEANUP] Deleted: page_04.pdf
-[CLEANUP] Deleted: page_05.pdf
-[CLEANUP] Deleted: page_06.pdf
-[CLEANUP] Deleted: page_07.pdf
-[CLEANUP] Deleted: page_08.pdf
-[CLEANUP] Deleted: page_09.pdf
-[CLEANUP] Deleted: page_10.pdf
-[CLEANUP] Deleted: page_11.pdf
-[CLEANUP] Deleted: page_12.pdf
+[FATAL] Could not fetch page count: HTTPSConnectionPool(host='epaper.murasoli.in', port=443): Max retries exceeded with url: /Home/GetAllpages?editionid=1&editiondate=26/10/2025 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f780d477a00>, 'Connection to epaper.murasoli.in timed out. (connect timeout=None)'))
