@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 28
+[INFO] Total pages: 35
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -21,7 +21,8 @@
 [SUCCESS] Downloaded: page_18.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_19.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_20.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_21.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/11/04/CHN/5_21/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/11/04/CHN/5_21/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/11/04/CHN/5_21/
 [SUCCESS] Downloaded: page_22.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_23.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_24.pdf (Attempt 1)
@@ -29,6 +30,13 @@
 [SUCCESS] Downloaded: page_26.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_27.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_28.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_29.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_30.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_31.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_32.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_33.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_34.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_35.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -50,7 +58,6 @@
 [CLEANUP] Deleted: page_18.pdf
 [CLEANUP] Deleted: page_19.pdf
 [CLEANUP] Deleted: page_20.pdf
-[CLEANUP] Deleted: page_21.pdf
 [CLEANUP] Deleted: page_22.pdf
 [CLEANUP] Deleted: page_23.pdf
 [CLEANUP] Deleted: page_24.pdf
@@ -58,3 +65,10 @@
 [CLEANUP] Deleted: page_26.pdf
 [CLEANUP] Deleted: page_27.pdf
 [CLEANUP] Deleted: page_28.pdf
+[CLEANUP] Deleted: page_29.pdf
+[CLEANUP] Deleted: page_30.pdf
+[CLEANUP] Deleted: page_31.pdf
+[CLEANUP] Deleted: page_32.pdf
+[CLEANUP] Deleted: page_33.pdf
+[CLEANUP] Deleted: page_34.pdf
+[CLEANUP] Deleted: page_35.pdf
