@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 56
+[INFO] Total pages: 51
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -9,8 +9,7 @@
 [SUCCESS] Downloaded: page_06.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_07.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_09/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_09/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_09/
+[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_11.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
@@ -29,8 +28,7 @@
 [SUCCESS] Downloaded: page_25.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_26.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_27.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_28/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_28/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/12/04/CHN/5_28/
+[SUCCESS] Downloaded: page_28.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_29.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_30.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_31.pdf (Attempt 1)
@@ -54,11 +52,6 @@
 [SUCCESS] Downloaded: page_49.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_50.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_51.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_52.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_53.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_54.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_55.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_56.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -68,6 +61,7 @@
 [CLEANUP] Deleted: page_06.pdf
 [CLEANUP] Deleted: page_07.pdf
 [CLEANUP] Deleted: page_08.pdf
+[CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
 [CLEANUP] Deleted: page_11.pdf
 [CLEANUP] Deleted: page_12.pdf
@@ -86,6 +80,7 @@
 [CLEANUP] Deleted: page_25.pdf
 [CLEANUP] Deleted: page_26.pdf
 [CLEANUP] Deleted: page_27.pdf
+[CLEANUP] Deleted: page_28.pdf
 [CLEANUP] Deleted: page_29.pdf
 [CLEANUP] Deleted: page_30.pdf
 [CLEANUP] Deleted: page_31.pdf
@@ -109,8 +104,3 @@
 [CLEANUP] Deleted: page_49.pdf
 [CLEANUP] Deleted: page_50.pdf
 [CLEANUP] Deleted: page_51.pdf
-[CLEANUP] Deleted: page_52.pdf
-[CLEANUP] Deleted: page_53.pdf
-[CLEANUP] Deleted: page_54.pdf
-[CLEANUP] Deleted: page_55.pdf
-[CLEANUP] Deleted: page_56.pdf
