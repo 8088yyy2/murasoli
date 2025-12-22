@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 56
+[INFO] Total pages: 39
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -23,8 +23,7 @@
 [SUCCESS] Downloaded: page_20.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_21.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_22.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_23/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_23/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_23/
+[SUCCESS] Downloaded: page_23.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_24.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_25.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_26.pdf (Attempt 1)
@@ -36,29 +35,11 @@
 [SUCCESS] Downloaded: page_32.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_33.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_34.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_35/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_35/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/12/21/CHN/5_35/
+[SUCCESS] Downloaded: page_35.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_36.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_37.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_38.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_39.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_40.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_41.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_42.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_43.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_44.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_45.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_46.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_47.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_48.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_49.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_50.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_51.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_52.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_53.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_54.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_55.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_56.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -82,6 +63,7 @@
 [CLEANUP] Deleted: page_20.pdf
 [CLEANUP] Deleted: page_21.pdf
 [CLEANUP] Deleted: page_22.pdf
+[CLEANUP] Deleted: page_23.pdf
 [CLEANUP] Deleted: page_24.pdf
 [CLEANUP] Deleted: page_25.pdf
 [CLEANUP] Deleted: page_26.pdf
@@ -93,24 +75,8 @@
 [CLEANUP] Deleted: page_32.pdf
 [CLEANUP] Deleted: page_33.pdf
 [CLEANUP] Deleted: page_34.pdf
+[CLEANUP] Deleted: page_35.pdf
 [CLEANUP] Deleted: page_36.pdf
 [CLEANUP] Deleted: page_37.pdf
 [CLEANUP] Deleted: page_38.pdf
 [CLEANUP] Deleted: page_39.pdf
-[CLEANUP] Deleted: page_40.pdf
-[CLEANUP] Deleted: page_41.pdf
-[CLEANUP] Deleted: page_42.pdf
-[CLEANUP] Deleted: page_43.pdf
-[CLEANUP] Deleted: page_44.pdf
-[CLEANUP] Deleted: page_45.pdf
-[CLEANUP] Deleted: page_46.pdf
-[CLEANUP] Deleted: page_47.pdf
-[CLEANUP] Deleted: page_48.pdf
-[CLEANUP] Deleted: page_49.pdf
-[CLEANUP] Deleted: page_50.pdf
-[CLEANUP] Deleted: page_51.pdf
-[CLEANUP] Deleted: page_52.pdf
-[CLEANUP] Deleted: page_53.pdf
-[CLEANUP] Deleted: page_54.pdf
-[CLEANUP] Deleted: page_55.pdf
-[CLEANUP] Deleted: page_56.pdf
