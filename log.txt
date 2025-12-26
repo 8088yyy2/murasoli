@@ -1,13 +1,14 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 35
+[INFO] Total pages: 37
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_04.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_05.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_06.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_07.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2025/12/26/CHN/5_07/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2025/12/26/CHN/5_07/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2025/12/26/CHN/5_07/
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_09.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
@@ -36,6 +37,8 @@
 [SUCCESS] Downloaded: page_33.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_34.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_35.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_36.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_37.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -43,7 +46,6 @@
 [CLEANUP] Deleted: page_04.pdf
 [CLEANUP] Deleted: page_05.pdf
 [CLEANUP] Deleted: page_06.pdf
-[CLEANUP] Deleted: page_07.pdf
 [CLEANUP] Deleted: page_08.pdf
 [CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
@@ -72,3 +74,5 @@
 [CLEANUP] Deleted: page_33.pdf
 [CLEANUP] Deleted: page_34.pdf
 [CLEANUP] Deleted: page_35.pdf
+[CLEANUP] Deleted: page_36.pdf
+[CLEANUP] Deleted: page_37.pdf
