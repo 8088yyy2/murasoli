@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 40
+[INFO] Total pages: 51
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -41,6 +41,17 @@
 [SUCCESS] Downloaded: page_38.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_39.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_40.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_41.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_42.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_43.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_44.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_45.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_46.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_47.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_48.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_49.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_50.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_51.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -82,3 +93,14 @@
 [CLEANUP] Deleted: page_38.pdf
 [CLEANUP] Deleted: page_39.pdf
 [CLEANUP] Deleted: page_40.pdf
+[CLEANUP] Deleted: page_41.pdf
+[CLEANUP] Deleted: page_42.pdf
+[CLEANUP] Deleted: page_43.pdf
+[CLEANUP] Deleted: page_44.pdf
+[CLEANUP] Deleted: page_45.pdf
+[CLEANUP] Deleted: page_46.pdf
+[CLEANUP] Deleted: page_47.pdf
+[CLEANUP] Deleted: page_48.pdf
+[CLEANUP] Deleted: page_49.pdf
+[CLEANUP] Deleted: page_50.pdf
+[CLEANUP] Deleted: page_51.pdf
