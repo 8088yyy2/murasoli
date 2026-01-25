@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 38
+[INFO] Total pages: 87
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -9,7 +9,8 @@
 [SUCCESS] Downloaded: page_06.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_07.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_09.pdf (Attempt 1)
+[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2026/01/25/CHN/5_09/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2026/01/25/CHN/5_09/
+[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2026/01/25/CHN/5_09/
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_11.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
@@ -39,6 +40,55 @@
 [SUCCESS] Downloaded: page_36.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_37.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_38.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_39.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_40.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_41.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_42.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_43.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_44.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_45.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_46.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_47.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_48.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_49.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_50.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_51.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_52.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_53.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_54.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_55.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_56.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_57.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_58.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_59.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_60.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_61.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_62.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_63.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_64.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_65.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_66.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_67.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_68.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_69.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_70.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_71.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_72.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_73.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_74.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_75.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_76.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_77.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_78.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_79.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_80.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_81.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_82.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_83.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_84.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_85.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_86.pdf (Attempt 1)
+[SUCCESS] Downloaded: page_87.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -48,7 +98,6 @@
 [CLEANUP] Deleted: page_06.pdf
 [CLEANUP] Deleted: page_07.pdf
 [CLEANUP] Deleted: page_08.pdf
-[CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
 [CLEANUP] Deleted: page_11.pdf
 [CLEANUP] Deleted: page_12.pdf
@@ -78,3 +127,52 @@
 [CLEANUP] Deleted: page_36.pdf
 [CLEANUP] Deleted: page_37.pdf
 [CLEANUP] Deleted: page_38.pdf
+[CLEANUP] Deleted: page_39.pdf
+[CLEANUP] Deleted: page_40.pdf
+[CLEANUP] Deleted: page_41.pdf
+[CLEANUP] Deleted: page_42.pdf
+[CLEANUP] Deleted: page_43.pdf
+[CLEANUP] Deleted: page_44.pdf
+[CLEANUP] Deleted: page_45.pdf
+[CLEANUP] Deleted: page_46.pdf
+[CLEANUP] Deleted: page_47.pdf
+[CLEANUP] Deleted: page_48.pdf
+[CLEANUP] Deleted: page_49.pdf
+[CLEANUP] Deleted: page_50.pdf
+[CLEANUP] Deleted: page_51.pdf
+[CLEANUP] Deleted: page_52.pdf
+[CLEANUP] Deleted: page_53.pdf
+[CLEANUP] Deleted: page_54.pdf
+[CLEANUP] Deleted: page_55.pdf
+[CLEANUP] Deleted: page_56.pdf
+[CLEANUP] Deleted: page_57.pdf
+[CLEANUP] Deleted: page_58.pdf
+[CLEANUP] Deleted: page_59.pdf
+[CLEANUP] Deleted: page_60.pdf
+[CLEANUP] Deleted: page_61.pdf
+[CLEANUP] Deleted: page_62.pdf
+[CLEANUP] Deleted: page_63.pdf
+[CLEANUP] Deleted: page_64.pdf
+[CLEANUP] Deleted: page_65.pdf
+[CLEANUP] Deleted: page_66.pdf
+[CLEANUP] Deleted: page_67.pdf
+[CLEANUP] Deleted: page_68.pdf
+[CLEANUP] Deleted: page_69.pdf
+[CLEANUP] Deleted: page_70.pdf
+[CLEANUP] Deleted: page_71.pdf
+[CLEANUP] Deleted: page_72.pdf
+[CLEANUP] Deleted: page_73.pdf
+[CLEANUP] Deleted: page_74.pdf
+[CLEANUP] Deleted: page_75.pdf
+[CLEANUP] Deleted: page_76.pdf
+[CLEANUP] Deleted: page_77.pdf
+[CLEANUP] Deleted: page_78.pdf
+[CLEANUP] Deleted: page_79.pdf
+[CLEANUP] Deleted: page_80.pdf
+[CLEANUP] Deleted: page_81.pdf
+[CLEANUP] Deleted: page_82.pdf
+[CLEANUP] Deleted: page_83.pdf
+[CLEANUP] Deleted: page_84.pdf
+[CLEANUP] Deleted: page_85.pdf
+[CLEANUP] Deleted: page_86.pdf
+[CLEANUP] Deleted: page_87.pdf
