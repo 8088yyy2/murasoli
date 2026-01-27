@@ -1,6 +1,6 @@
 === Murasoli PDF Download Log ===
 [INFO] Fetching number of pages...
-[INFO] Total pages: 30
+[INFO] Total pages: 29
 [SUCCESS] Downloaded: page_01.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_02.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_03.pdf (Attempt 1)
@@ -11,8 +11,7 @@
 [SUCCESS] Downloaded: page_08.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_09.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_10.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_11/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_11/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_11/
+[SUCCESS] Downloaded: page_11.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_12.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_13.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_14.pdf (Attempt 1)
@@ -27,12 +26,10 @@
 [SUCCESS] Downloaded: page_23.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_24.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_25.pdf (Attempt 1)
-[ERROR] Reading https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_26/: 404 Client Error: Not Found for url: https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_26/
-[WARN] No PDF found in: https://mrsfsnew.avahan.net/mrs/2026/01/26/CHN/5_26/
+[SUCCESS] Downloaded: page_26.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_27.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_28.pdf (Attempt 1)
 [SUCCESS] Downloaded: page_29.pdf (Attempt 1)
-[SUCCESS] Downloaded: page_30.pdf (Attempt 1)
 [MERGED] All PDFs into: murasoli.pdf
 [CLEANUP] Deleted: page_01.pdf
 [CLEANUP] Deleted: page_02.pdf
@@ -44,6 +41,7 @@
 [CLEANUP] Deleted: page_08.pdf
 [CLEANUP] Deleted: page_09.pdf
 [CLEANUP] Deleted: page_10.pdf
+[CLEANUP] Deleted: page_11.pdf
 [CLEANUP] Deleted: page_12.pdf
 [CLEANUP] Deleted: page_13.pdf
 [CLEANUP] Deleted: page_14.pdf
@@ -58,7 +56,7 @@
 [CLEANUP] Deleted: page_23.pdf
 [CLEANUP] Deleted: page_24.pdf
 [CLEANUP] Deleted: page_25.pdf
+[CLEANUP] Deleted: page_26.pdf
 [CLEANUP] Deleted: page_27.pdf
 [CLEANUP] Deleted: page_28.pdf
 [CLEANUP] Deleted: page_29.pdf
-[CLEANUP] Deleted: page_30.pdf
